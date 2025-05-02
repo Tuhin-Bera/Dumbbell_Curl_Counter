@@ -3,7 +3,8 @@ This project is a computer vision-based fitness assistant that counts dumbbell c
 🤖NOTE:
 Use any type of exercise video for this project for better understanding
 
-🚀 Features
+🚀 Features:
+
 Detects human body pose using MediaPipe.
 
 Calculates the angle of the arm during dumbbell curls.
@@ -16,7 +17,8 @@ Displays real-time FPS and repetition counter.
 
 Can work with a webcam or pre-recorded video.
 
-🧠 Requirements
+🧠 Requirements:
+
 Python 3.7+
 
 OpenCV
